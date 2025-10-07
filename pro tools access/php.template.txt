@@ -1,0 +1,10 @@
+
+---
+
+## 🧩 Example HTML Snippet
+```html
+<section class="thank-you">
+  <h1>Thank You for Your Purchase!</h1>
+  <p>Your payment was successful. You now have access to all Pro Tools.</p>
+  <a href="https://www.omnitoolaz.com/pro-dashboard.html" class="btn">Go to Dashboard</a>
+</section>
